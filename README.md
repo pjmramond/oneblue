@@ -1,4 +1,4 @@
-# Blanes/Oneblue Project — DADA2 Amplicon Pipeline (16S & 18S, multi-run)
+# Oneblue Project — DADA2 Amplicon Pipeline (16S & 18S, multi-run)
 
 This README documents the full parameter-selection process, diagnostic tests, and findings from running the [dada2_guidelines](https://github.com/adriaaula/dada2_guidelines) pipeline on the 16S and 18S datasets. It's written so anyone in the group can rerun this analysis, understand *why* each decision was made, and avoid re-running experiments we've already done (some of which failed informatively).
 
